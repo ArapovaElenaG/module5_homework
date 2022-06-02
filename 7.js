@@ -51,7 +51,7 @@ console.log("Количество не числовых элементов со�
 // let anatherArr = arr.filter(function(value) {
 //   return value === NaN || value === null;
 // });
-// console.log("Количество элементов равных нулю составляет " + anatherArr.length);
+// console.log("Количество не числовых элементов составляет " + anatherArr.length);
 
 // console.log("Количество четных элементов не равных нулю составляет " + (arr.length - oddArr.length - nollArr.length - anatherArr.length));
 
